@@ -1,0 +1,17 @@
+.single-profile{
+    margin: 0 20px;
+}
+
+.single-profile img{
+    width: 120px;
+    border-radius: 5px;
+}
+
+.single-profile img:hover{
+    filter: brightness(0.9);
+    outline: 2px solid grey;
+}
+
+.single-profile p{
+    text-align: center;
+}
